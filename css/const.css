@@ -1,0 +1,52 @@
+:root {
+   --mainfont100: msc100;
+   --mainfont300: msc300;
+   --mainfont500: msc500;
+   --mainfont700: msc700;
+   --mainfont900: msc900;
+   --bg-grey1: #F5F5F5;
+   --bg-grey2: rgba(0, 0, 0, 0.08);
+   --bg-red: red;
+   --bg-yellow: #FECE00;
+   --bg-green: #00CD52;
+   --bg-transparent: rgba(0,0,0,0.8);
+   --bg-white: white;
+   --grey: #9C958F;
+   --white: white;
+}
+
+@font-face {
+	font-family: 'msc100';
+	src: url('../fonts/museosans/MuseoSansCyrl-100.ttf');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'msc300';
+	src: url('../fonts/museosans/MuseoSansCyrl-300.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'msc500';
+	src: url('../fonts/museosans/MuseoSansCyrl-500.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'msc700';
+	src: url('../fonts/museosans/MuseoSansCyrl-700.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'msc900';
+	src: url('../fonts/museosans/MuseoSansCyrl-900.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
